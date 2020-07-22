@@ -1,3 +1,3 @@
 ### Hi :wave: ###
 
-- :CN: I am based in Beijing, China.
+- :cn: I am based in Beijing, China.
